@@ -5,7 +5,7 @@
 使用 Google Sheets 作為記帳工具 透過 LLM幫助分類消費類別（如餐飲、交通、娛樂），並匯入Google sheet與加總，使用者輸入消費與金額後，AI判斷該筆消費的類別，整理成dataframe並加總後匯入Google表單，使用者可一目了然其消費，或進行後續資料分析統計等    
 **作業二連結 生物實驗數據處理:[作業二](https://github.com/kurakanja/113-2coding/blob/main/%E7%94%9F%E7%89%A9%E6%A4%8D%E7%89%A9%E7%9B%92%E9%AC%9A%E5%9C%96.ipynb)**    　
   
-作業二相關報告(額外):[點我看更詳細分析報告](https://docs.google.com/document/d/1_rFbIWTvPx5XcIhLqyhatzQqTHGtSD3INcT09gqsM0k/edit?tab=t.0)  
+作業二相關報告:[點我看更詳細分析報告](https://docs.google.com/document/d/1_rFbIWTvPx5XcIhLqyhatzQqTHGtSD3INcT09gqsM0k/edit?tab=t.0)  
 實驗名稱:植物激素對⼦葉⽣⻑的影響  
 實驗目的:探討在不同濃度的植物激素之培養液中(吉貝素GA與細胞分裂素BA)，胡瓜⼦葉⽣⻑的差異  
 實驗溶液:  
