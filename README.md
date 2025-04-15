@@ -3,6 +3,7 @@
 **作業一連結 記帳Ai歸納分類匯入試算表:[作業一](https://github.com/kurakanja/113-2coding/blob/main/HW1.ipynb)**　　
 
 **作業二連結 生物實驗數據處理:[作業二](https://github.com/kurakanja/113-2coding/blob/main/%E7%94%9F%E7%89%A9%E6%A4%8D%E7%89%A9%E7%9B%92%E9%AC%9A%E5%9C%96.ipynb)**    　
+  
 作業二相關報告(額外):[點我看更詳細分析報告](https://docs.google.com/document/d/1_rFbIWTvPx5XcIhLqyhatzQqTHGtSD3INcT09gqsM0k/edit?tab=t.0)  
 實驗名稱:植物激素對⼦葉⽣⻑的影響  
 實驗目的:探討在不同濃度的植物激素之培養液中(吉貝素GA與細胞分裂素BA)，胡瓜⼦葉⽣⻑的差異  
