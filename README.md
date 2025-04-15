@@ -2,16 +2,15 @@
 ## 作業區  
 **作業一連結 記帳Ai歸納分類匯入試算表:[作業一](https://github.com/kurakanja/113-2coding/blob/main/HW1.ipynb)**　　
 
-**作業二連結 生物實驗數據處理:[作業二](https://github.com/kurakanja/113-2coding/blob/main/%E7%94%9F%E7%89%A9%E6%A4%8D%E7%89%A9%E7%9B%92%E9%AC%9A%E5%9C%96.ipynb)**  　
+**作業二連結 生物實驗數據處理:[作業二](https://github.com/kurakanja/113-2coding/blob/main/%E7%94%9F%E7%89%A9%E6%A4%8D%E7%89%A9%E7%9B%92%E9%AC%9A%E5%9C%96.ipynb)**    　
 作業二相關報告(額外):[點我看更詳細分析報告](https://docs.google.com/document/d/1_rFbIWTvPx5XcIhLqyhatzQqTHGtSD3INcT09gqsM0k/edit?tab=t.0)  
-
-圖表說明  
 實驗名稱:植物激素對⼦葉⽣⻑的影響  
 實驗目的:探討在不同濃度的植物激素之培養液中(吉貝素GA與細胞分裂素BA)，胡瓜⼦葉⽣⻑的差異  
 實驗溶液GA:  
 1.濃度：10-4 M、10-5 M、10-6 M   
 2.BA 濃度：10-5 M、10-6 M、10-7 M   
 3.對照組：培養液（40mM之KCl、10mM之CaCl2）  
+圖表說明  
 figure.1.所有組別的10-5 M 面積增長(第五天面積減去第一天面積)分布  ![1](image/fig1.png)  
 figure.2.GA在不同濃度下面積增長(第五天面積減去第一天面積)分布  ![2](image/fig2.png)  
 figure.3.BA在不同濃度下面積增長(第五天面積減去第一天面積)分布  ![3](image/fig3.png)  
