@@ -7,8 +7,8 @@
 作業二相關報告(額外):[點我看更詳細分析報告](https://docs.google.com/document/d/1_rFbIWTvPx5XcIhLqyhatzQqTHGtSD3INcT09gqsM0k/edit?tab=t.0)  
 實驗名稱:植物激素對⼦葉⽣⻑的影響  
 實驗目的:探討在不同濃度的植物激素之培養液中(吉貝素GA與細胞分裂素BA)，胡瓜⼦葉⽣⻑的差異  
-實驗溶液GA:  
-1.濃度：10-4 M、10-5 M、10-6 M   
+實驗溶液:  
+1.GA 濃度：10-4 M、10-5 M、10-6 M   
 2.BA 濃度：10-5 M、10-6 M、10-7 M   
 3.對照組：培養液（40mM之KCl、10mM之CaCl2）  
 圖表說明  
