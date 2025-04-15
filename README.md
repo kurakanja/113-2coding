@@ -21,4 +21,6 @@ figure.5.比較GA和BA在分別濃度下子葉面積增長平均  ![5](image/fig
 
 
 **作業四連結 歌詞詞頻與文字雲:[作業四](https://github.com/kurakanja/113-2coding/blob/main/%E6%96%87%E5%AD%97%E5%88%86%E9%A1%9E%E8%AA%B2%E5%A0%82%E7%B7%B4%E7%BF%92(%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D%E5%85%A8%E6%AD%8C%E6%9B%B2%E6%AD%8C%E8%A9%9E).ipynb)**      
-文字雲圖  ![文字雲](image/文字雲圖.png)  詞語頻率  ![詞頻](image/歌詞詞頻.png)  
+文字雲圖  ![文字雲](image/文字雲圖.png)  
+
+詞語頻率  ![詞頻](image/歌詞詞頻.png)  
