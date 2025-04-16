@@ -50,6 +50,6 @@ staCode（車站代碼）
   
 文字雲圖  
 將歌詞用google表單的方式逐一匯入，找出頻率最高做文字雲  
-![文字雲](image/文字雲圖.png)  
+<img src="image/文字雲圖.png" width="700"/>   
 
 詞語頻率  ![詞頻](image/歌詞詞頻.png)  
